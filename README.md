@@ -65,7 +65,7 @@ Darüber hinaus findet bei der Entwicklung die Dart-Sprache Anwendung, da das Fr
 
 Des Weiteren findet die Technologie GitHub Verwendung, um ein Repositorium für die Evaluierung der Applikation zu bereitstellen.
 
-- **Git & GitHub**: https://github.com/BigGlockShock/Retro-Gaming-Genie/tree/master
+- **Git & GitHub**: 
 - **RAWG API**: https://rawg.io/apidocs
 - **OpenAI API**: https://platform.openai.com/docs
 - **Flutter**: https://flutter.dev
@@ -73,7 +73,7 @@ Des Weiteren findet die Technologie GitHub Verwendung, um ein Repositorium für 
 
 # 3. Klassen-Diagramm
 
-![Klassen-Diagramm](bilder\korregiert.drawio.png)
+![Klassen-Diagramm](bilder/korregiert.drawio.png)
 
 Das beigefügte Klassendiagramm veranschaulicht die grundlegenden Funktionsweisen der Applikation. Eine Analyse des vorliegenden Systems ergibt eine deutliche Abgrenzung zwischen dem Frontend und dem Backend. Die Applikation setzt sich aus drei stateless Widgets zusammen, die die Funktion von Pages erfüllen. Darüber hinaus existieren zwei weitere Klassen: eine Service-Klasse und eine Strukturklasse. Des Weiteren ist im Backend ein Server vorhanden. Die nachfolgenden Abschnitte werden sich detaillierter mit den einzelnen Klassen befassen.
 
@@ -95,7 +95,7 @@ Damit die Weitergabe korrekt durchgeführt werden kann, wurde diese Klasse um ei
 
 Des Weiteren findet sich auf dieser Seite eine kurze Einleitung, die in drei Schritten die Funktionsweise der Applikation erläutert. Die Formatierung der Benutzeranweisung weist eine hohe Ähnlichkeit mit den Listeneinträgen auf, die auf der nächsten Seite, dem sogenannten "Game-Page", zu finden sind. Zur Veranschaulichung wurde ein Pixel-Art-Bild verwendet, das eine Öllampe zeigt. Die vorliegende Anspielung nimmt Bezug auf das im Genie Page dargestellte Genie. Der Fokus der Betrachtung liegt aktuell noch auf dem Phänomen des Genies, welches sich in der Lampe manifestiert.
 
-![Öl-Lampe](flutter_application\assets\images\genie_lamp.jpg)
+![Öl-Lampe](flutter_application/assets/images/genie_lamp.jpg)
 
 ## Game Page
 
@@ -127,7 +127,7 @@ Eine Analyse der Technologie des Genie Pages ergibt eine hohe Ähnlichkeit mit d
 
 Die Verarbeitung der Nachtarbeit sowie die Beantwortung der Nachrichten erfolgen im Backend-Server.
 
-![Retro-Gaming-Genie](flutter_application\assets\images\genie_2.jpg)
+![Retro-Gaming-Genie](flutter_application/assets/images/genie_2.jpg)
 
 # 5. Backend
 
