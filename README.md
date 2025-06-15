@@ -65,7 +65,7 @@ Darüber hinaus findet bei der Entwicklung die Dart-Sprache Anwendung, da das Fr
 
 Des Weiteren findet die Technologie GitHub Verwendung, um ein Repositorium für die Evaluierung der Applikation zu bereitstellen.
 
-- **Git & GitHub**: https://github.com/BigGlockShock/Retro-Gaming-Genie/master
+- **Git & GitHub**: https://github.com/BigGlockShock/Retro-Gaming-Genie/tree/master
 - **RAWG API**: https://rawg.io/apidocs
 - **OpenAI API**: https://platform.openai.com/docs
 - **Flutter**: https://flutter.dev
